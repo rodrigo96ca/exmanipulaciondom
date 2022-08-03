@@ -1,0 +1,26 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    text-transform: uppercase;
+    margin: 60px;
+
+}
+main{
+    position: relative;
+    right: -600px;
+    height:100vh;
+}
+input{
+    height: 50px;
+    width: 150px;
+    border: solid rgb(16, 180, 202) 2px;
+    margin-right: 30px;
+    margin-top: 30px;
+
+    
+}
+#btncalc{
+   display: inline-block;
+   max-height: 30px;
+}
